@@ -1,5 +1,5 @@
 # Create Attack Distruption scenario using Logic Apps
-author: Benji Kovacevic & Christos Ventouris
+author: Benji Kovacevic & Christos Ventouris (cventour)
 
 This is sample playbook demonstrating how to create Attack Distruption scenario using Logic Apps.
 
