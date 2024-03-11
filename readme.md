@@ -1,5 +1,5 @@
-# Tasks-Repository
-author: Benji Kovacevic
+# Create Attack Distruption scenario using Logic Apps
+author: Benji Kovacevic & Christos Ventouris
 
 This is sample playbook demonstrating how to create Attack Distruption scenario using Logic Apps.
 
@@ -10,10 +10,10 @@ This is sample playbook demonstrating how to create Attack Distruption scenario 
 4. Save Object ID of SOC group from Entra ID
 5. Create Pan OS API key
 
-# Quick Deployment - needs to be updated
+# Quick Deployment
 Deploy a playbook<br>
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2FAzure-Sentinel%2Fmaster%2FTools%2FTasks-Repository%2Fazuredeploynmi.json)
-[![Deploy to Azure Gov](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.png)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2FAzure-Sentinel%2Fmaster%2FTools%2FTasks-Repository%2Fazuredeploynmi.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FBenjiSec%2FMVPSummit2024%2Fmain%2Fazuredeploy.json)
+[![Deploy to Azure Gov](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.png)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FBenjiSec%2FMVPSummit2024%2Fmain%2Fazuredeploy.json)
 
 # Post-deployment
 1. Authorize Microsft Defender for Endpoint, Entra ID, and Microsoft Outlook connections
